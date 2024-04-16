@@ -1,0 +1,77 @@
+.imagens{
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 100%;
+    max-height: auto;
+}
+
+.imagens__produtos__perfume{
+    width: 100%;
+    height: auto;
+}
+
+.texto__produto1{
+    position: absolute;
+    top: 21%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    color: var(--branco);
+    font-family: var(--fonte-imagens);
+    text-transform: uppercase;
+    font-size: 7vw;
+    font-weight: 700;
+    
+}
+
+.texto__produto2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--branco);
+    font-family: var(--fonte-imagens);
+    text-transform: uppercase;
+    font-size: 7vw;
+    font-weight: 700;
+    
+}
+
+.texto__produto3{
+    position: absolute;
+    top: 25%;
+    left: 47.25%;
+    transform: translate(-50%, -50%);
+    color: var(--preto);
+    font-family: var(--fonte-imagens);
+    text-transform: uppercase;
+    font-size: 7vw;
+    font-weight: 700;
+    
+}
+
+.texto__produto4{
+    position: absolute;
+    top: 20%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    color: var(--preto);
+    font-family: var(--fonte-imagens);
+    text-transform: uppercase;
+    font-size: 7vw;
+    font-weight: 700;
+    
+}
+
+.texto__produto5{
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: var(--preto);
+    font-family: var(--fonte-imagens);
+    text-transform: uppercase;
+    font-size: 7vw;
+    font-weight: 700;
+    
+}
