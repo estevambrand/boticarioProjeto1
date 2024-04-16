@@ -1,2 +1,3 @@
 # boticarioProjeto1
-Primeiro Projeto prático FULLSTAKC Grupo Desenvolve Boticário
+Primeiro Projeto prático FULLSTACK Grupo Desenvolve Boticário
+Site inspirado em um tema um pouco mais direto e minimalista
